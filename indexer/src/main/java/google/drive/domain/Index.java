@@ -27,7 +27,7 @@ public class Index  {
     
     @ElementCollection
     
-    private List<List<List<String>>> keywords;
+    private List<String> keywords;
     
     
     
